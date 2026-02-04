@@ -1,0 +1,2 @@
+pybaseball==2.2.7
+pandas==2.1.3
